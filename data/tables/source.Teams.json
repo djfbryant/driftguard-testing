@@ -1,0 +1,20 @@
+[
+  {
+    "CountryName": "England",
+    "LeagueName": "Premier League",
+    "TeamId": 1,
+    "TeamName": "Arsenal"
+  },
+  {
+    "CountryName": "England",
+    "LeagueName": "Premier League",
+    "TeamId": 2,
+    "TeamName": "Liverpool"
+  },
+  {
+    "CountryName": "Spain",
+    "LeagueName": "La Liga",
+    "TeamId": 3,
+    "TeamName": "Barcelona"
+  }
+]

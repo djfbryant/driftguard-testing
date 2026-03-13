@@ -1,0 +1,9 @@
+CREATE   PROCEDURE GetTopRecord
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT TOP 1 *
+    FROM YourTable
+    ORDER BY Id DESC;
+END;

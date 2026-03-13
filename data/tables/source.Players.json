@@ -1,0 +1,46 @@
+[
+  {
+    "CurrentTeamId": 1,
+    "DateOfBirth": null,
+    "FirstName": "Bukayo",
+    "LastName": "Saka",
+    "Lover": null,
+    "Nationality": "England",
+    "PlayerId": 1,
+    "PositionName": "Winger",
+    "ShirtNumber": 7
+  },
+  {
+    "CurrentTeamId": 1,
+    "DateOfBirth": null,
+    "FirstName": "Declan",
+    "LastName": "Rice",
+    "Lover": null,
+    "Nationality": "England",
+    "PlayerId": 2,
+    "PositionName": "Midfielder",
+    "ShirtNumber": 41
+  },
+  {
+    "CurrentTeamId": 2,
+    "DateOfBirth": null,
+    "FirstName": "Mohamed",
+    "LastName": "Salah",
+    "Lover": null,
+    "Nationality": "Egypt",
+    "PlayerId": 3,
+    "PositionName": "Forward",
+    "ShirtNumber": 11
+  },
+  {
+    "CurrentTeamId": 3,
+    "DateOfBirth": null,
+    "FirstName": "Pedri",
+    "LastName": "Gonzalez",
+    "Lover": null,
+    "Nationality": "Spain",
+    "PlayerId": 4,
+    "PositionName": "Midfielder",
+    "ShirtNumber": 8
+  }
+]

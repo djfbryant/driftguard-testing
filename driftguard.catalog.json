@@ -1,0 +1,65 @@
+{
+  "version": "1",
+  "objects": [
+    {
+      "schemaName": "source",
+      "objectName": "Teams",
+      "objectType": "table",
+      "filePath": "objects/tables/source.Teams.sql",
+      "dataFilePath": "data/tables/source.Teams.json",
+      "sourceServer": "darren-laptop\\SQLExpress,62450",
+      "sourceDatabase": "FootballOps",
+      "importedAt": "2026-03-12T22:50:18.267761700+00:00",
+      "includeData": true,
+      "sensitive": false
+    },
+    {
+      "schemaName": "source",
+      "objectName": "Contracts",
+      "objectType": "table",
+      "filePath": "objects/tables/source.Contracts.sql",
+      "dataFilePath": "data/tables/source.Contracts.json",
+      "sourceServer": "darren-laptop\\SQLExpress,62450",
+      "sourceDatabase": "FootballOps",
+      "importedAt": "2026-03-12T22:50:21.075044200+00:00",
+      "includeData": true,
+      "sensitive": false
+    },
+    {
+      "schemaName": "dbo",
+      "objectName": "GetTopRecord",
+      "objectType": "procedure",
+      "filePath": "objects/procedures/dbo.GetTopRecord.sql",
+      "dataFilePath": null,
+      "sourceServer": "darren-laptop\\SQLExpress,62450",
+      "sourceDatabase": "FootballOps",
+      "importedAt": "2026-03-13T00:07:38.861799600+00:00",
+      "includeData": false,
+      "sensitive": false
+    },
+    {
+      "schemaName": "target",
+      "objectName": "SalesOps",
+      "objectType": "table",
+      "filePath": "objects/tables/target.SalesOps.sql",
+      "dataFilePath": null,
+      "sourceServer": "darren-laptop\\SQLExpress,62450",
+      "sourceDatabase": "FootballOps",
+      "importedAt": "2026-03-13T00:37:48.876256500+00:00",
+      "includeData": false,
+      "sensitive": false
+    },
+    {
+      "schemaName": "source",
+      "objectName": "Players",
+      "objectType": "table",
+      "filePath": "objects/tables/source.Players.sql",
+      "dataFilePath": "data/tables/source.Players.json",
+      "sourceServer": "darren-laptop\\SQLExpress,62450",
+      "sourceDatabase": "FootballOps",
+      "importedAt": "2026-03-13T00:37:50.483969400+00:00",
+      "includeData": true,
+      "sensitive": true
+    }
+  ]
+}

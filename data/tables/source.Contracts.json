@@ -1,0 +1,38 @@
+[
+  {
+    "ContractEndDate": null,
+    "ContractId": 1,
+    "ContractStartDate": null,
+    "CurrencyCode": "GBP",
+    "PlayerId": 1,
+    "TeamId": 1,
+    "WeeklyWage": null
+  },
+  {
+    "ContractEndDate": null,
+    "ContractId": 2,
+    "ContractStartDate": null,
+    "CurrencyCode": "GBP",
+    "PlayerId": 2,
+    "TeamId": 1,
+    "WeeklyWage": null
+  },
+  {
+    "ContractEndDate": null,
+    "ContractId": 3,
+    "ContractStartDate": null,
+    "CurrencyCode": "GBP",
+    "PlayerId": 3,
+    "TeamId": 2,
+    "WeeklyWage": null
+  },
+  {
+    "ContractEndDate": null,
+    "ContractId": 4,
+    "ContractStartDate": null,
+    "CurrencyCode": "EUR",
+    "PlayerId": 4,
+    "TeamId": 3,
+    "WeeklyWage": null
+  }
+]
